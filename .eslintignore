@@ -1,0 +1,6 @@
+{
+    "ignorePatterns": ["temp.js", "node_modules" ,"coverage", "jest.config.js", "jest.setup.js"],
+    "rules": {
+        //...
+    }
+}
